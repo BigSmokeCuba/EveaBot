@@ -9,7 +9,7 @@ PASSWORD = 'Lary.8428'
 USUARIO_ID = 13238
 ZIP_MB = 200
 MOODLE_URL = 'evea.uh.cu'
-OWNER = [811906873]
+OWNER = [553038788]
 
 # CUENTA DE MEGA
 GMAIL_MEGA = 'carlosmgarcia0119@gmail.com'
